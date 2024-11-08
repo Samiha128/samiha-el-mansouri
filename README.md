@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm samiha el mansouri</h1>
 <h3 align="center">A passionate Data Engineering Student from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/42/88/9ynmFP.gif">
+
 
 - 🌱 I’m currently learning **I’m currently learning Deep Learning , JEE(Spring), NLP, Cloud Computing Platform,Big data tech...**
 

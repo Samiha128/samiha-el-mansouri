@@ -7,7 +7,7 @@
 - 💬 Ask me about **SQL - Python - Java - Hadoop - Machine Learning and Databases....**
 
 - 📫 How to reach me **elmansourisamiha80@gmail.com**
-- 👨‍💻 All of my projects are available at **samiha.pro**
+- 👨‍💻 All of my projects are available at **samiha.pro/**
 
 - ⚡ Fun fact **I love traveling and the joy of reading 📚**
 

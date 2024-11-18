@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineering Student from Morocco</h3>
 
 
-- 🌱 I’m currently learning **I’m currently learning Deep Learning , JEE(Spring), NLP, Cloud Computing Platform,Big data tech...**
+- 🌱  **I’m currently learning Deep Learning , JEE(Spring), NLP, Cloud Computing Platform,Big data tech...**
 
 - 💬 Ask me about **SQL - Python - Java - Hadoop - Machine Learning and Databases....**
 

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="154" viewBox="0 0 480 154">
+  <defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F75C7E"/><stop offset="1" stop-color="#B84D86"/></linearGradient></defs>
+  <rect x="1" y="1" width="478" height="152" rx="14" fill="#1F222E" stroke="#493342" stroke-width="1.5"/>
+  <rect x="1" y="1" width="6" height="152" rx="3" fill="url(#accent)"/>
+  <circle cx="424" cy="35" r="48" fill="#F75C7E" opacity=".07"/>
+  <circle cx="424" cy="35" r="29" fill="none" stroke="#F75C7E" opacity=".18"/>
+  <text x="28" y="34" fill="#F75C7E" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">FEATURED PROJECT  /  01</text>
+  <text x="28" y="73" fill="#F4F0F2" font-family="Arial,sans-serif" font-size="21" font-weight="700">Call Center Voice Agent</text>
+  <text x="28" y="99" fill="#B9B5C0" font-family="Arial,sans-serif" font-size="13">AI-powered call center assistant</text>
+  <rect x="28" y="116" width="auto" height="1" fill="#51404C"/>
+  <text x="28" y="137" fill="#F8A0B3" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1">VOICE AI  ·  AZURE  ·  PYTHON</text>
+  <text x="448" y="133" fill="#F75C7E" font-family="Arial,sans-serif" font-size="18">↗</text>
+</svg>

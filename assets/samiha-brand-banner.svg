@@ -1,22 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
 <title id="title">Samiha El Mansouri — AI Engineer</title>
-<desc id="desc">Premium technology personal brand banner in midnight navy, electric blue and violet.</desc>
+<desc id="desc">A vibrant dark technology banner with rose pink and violet accents for an AI Engineer.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080F20"/><stop offset=".58" stop-color="#101D39"/><stop offset="1" stop-color="#1B2350"/></linearGradient>
-  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#477DFF"/><stop offset="1" stop-color="#9B7BFF"/></linearGradient>
-  <radialGradient id="orb"><stop offset="0" stop-color="#477DFF" stop-opacity=".32"/><stop offset="1" stop-color="#477DFF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11121D"/><stop offset=".55" stop-color="#211A2C"/><stop offset="1" stop-color="#301C36"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8FAB"/><stop offset=".55" stop-color="#F75C7E"/><stop offset="1" stop-color="#B65CFF"/></linearGradient>
+  <radialGradient id="orb"><stop offset="0" stop-color="#F75C7E" stop-opacity=".35"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
 </defs>
 <rect width="1584" height="396" fill="url(#bg)"/>
-<circle cx="1300" cy="180" r="310" fill="url(#orb)"/>
-<g fill="none" stroke="#7186B7" stroke-opacity=".18">
+<circle cx="1300" cy="175" r="330" fill="url(#orb)"/>
+<g fill="none" stroke="#F7A2B8" stroke-opacity=".13">
   <path d="M1030 0V396M1130 0V396M1230 0V396M1330 0V396M1430 0V396M1530 0V396"/>
   <path d="M930 96H1584M930 196H1584M930 296H1584"/>
 </g>
-<path d="M1100 292C1190 215 1225 85 1350 85S1495 190 1584 105" fill="none" stroke="url(#glow)" stroke-width="2" opacity=".7"/>
-<circle cx="1350" cy="85" r="7" fill="#9B7BFF"/>
-<text x="112" y="112" fill="#9BB4E7" font-family="Arial,sans-serif" font-size="19" letter-spacing="5">PERSONAL BRAND / 2026</text>
+<path d="M1060 305C1170 220 1220 70 1350 85S1495 205 1584 105" fill="none" stroke="url(#pink)" stroke-width="3" opacity=".85"/>
+<path d="M1090 340C1200 255 1260 120 1385 130S1505 245 1584 170" fill="none" stroke="#F75C7E" stroke-width="1.5" opacity=".4"/>
+<circle cx="1350" cy="85" r="8" fill="#FF8FAB"/>
+<text x="112" y="112" fill="#F5A5BA" font-family="Arial,sans-serif" font-size="19" letter-spacing="5">PERSONAL BRAND / AI ENGINEERING</text>
 <text x="108" y="205" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="1">SAMIHA EL MANSOURI</text>
-<text x="112" y="263" fill="#80A9FF" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="4">AI ENGINEER</text>
-<text x="112" y="315" fill="#D2DDF4" font-family="Arial,sans-serif" font-size="21">Generative AI  ·  Intelligent Agents  ·  Voice AI  ·  Data Engineering</text>
-<rect x="112" y="344" width="62" height="4" rx="2" fill="url(#glow)"/>
+<text x="112" y="263" fill="#FF8FAB" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="4">AI ENGINEER</text>
+<text x="112" y="315" fill="#F4DDE5" font-family="Arial,sans-serif" font-size="21">Generative AI  ·  Intelligent Agents  ·  Voice AI  ·  Data Engineering</text>
+<rect x="112" y="344" width="76" height="4" rx="2" fill="url(#pink)"/>
 </svg>

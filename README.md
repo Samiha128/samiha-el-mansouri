@@ -1,58 +1,51 @@
+![Samiha El Mansouri — AI Engineer](./assets/samiha-brand-banner.svg)
+
 # Samiha El Mansouri
 
 <p align="center">
-  <strong>AI Engineer · Generative AI · Voice AI · Data Engineering</strong>
+  <strong>AI Engineer · Generative AI · Intelligent Agents · Voice AI</strong>
 </p>
 
 <p align="center">
-  I build practical AI applications, with a focus on conversational AI, voice agents, retrieval-augmented generation, and data-driven systems.
+  Building practical AI systems that connect strong data foundations with useful product experiences.
 </p>
 
 <p align="center">
   <a href="https://samihael.netlify.app">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Samiha128">GitHub</a>
+  <a href="https://www.linkedin.com/in/samiha-el-mansouri-27505b250/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:elmansourisamiha80@gmail.com">Email</a>
 </p>
 
 ---
 
-## About
+## Focus
 
-- 🎓 Engineering background in Data Engineering.
-- 🤖 Focused on **Generative AI, LLM applications, RAG, and AI agents**.
-- 🎙️ Exploring real-time **Voice AI** experiences and Azure Voice Live.
-- ⚙️ Interested in building reliable AI backends, integrations, and deployable products.
-- 🌍 Based in Morocco; open to AI engineering and data opportunities in Morocco and remotely.
+- **Generative AI:** RAG, LLM applications, evaluation, prompt engineering and guardrails.
+- **AI agents:** Tool calling, orchestration, workflow automation and human handoff.
+- **Voice AI:** Real-time conversational experiences and Azure Voice Live.
+- **Data & backend:** Python, FastAPI, SQL, MongoDB, Redis and cloud data workflows.
 
-## Featured work
+## Selected work
 
-| Project | What it explores |
+| Project | Focus |
 | --- | --- |
-| [Call Center Voice Agent](https://github.com/Samiha128/call-center-voice-agent) | A voice-agent project based on Azure Voice Live, with browser and telephony integration paths. |
-| [AI Interview Quiz](https://github.com/Samiha128/ai-interview-quiz) | An AI-focused interview practice application. |
-| [Tokyo Olympics Azure Project](https://github.com/Samiha128/tokyo-olympic-azure-project) | Data engineering and analytics workflows on Azure. |
-| [Health Situation in Morocco](https://github.com/Samiha128/Health_Situation_in_Morocco) | Data exploration and analysis focused on Morocco. |
+| [Call Center Voice Agent](https://github.com/Samiha128/call-center-voice-agent) | Voice-agent experimentation with Azure Voice Live. |
+| [Aura Orbit Voice Companion](https://github.com/Samiha128/aura-orbit-voice-companion) | Voice-first AI companion concept and product exploration. |
+| [AI Interview Quiz](https://github.com/Samiha128/ai-interview-quiz) | AI-powered interview practice application. |
+| [Tokyo Olympics Azure Project](https://github.com/Samiha128/tokyo-olympic-azure-project) | Data engineering and analytics on Azure. |
 
-## Technical interests
+## Technical toolkit
 
-**AI & Machine Learning**  
-Generative AI · LLM applications · RAG · AI agents · NLP · Machine Learning
+**Languages & backend** · Python · FastAPI · SQL · MongoDB · Redis
 
-**Backend & Data**  
-Python · FastAPI · SQL · MongoDB · Redis · Data Engineering
+**AI engineering** · OpenAI API · LangChain · RAG · Embeddings · LLM evaluation
 
-**Cloud & Engineering**  
-Microsoft Azure · Azure AI Foundry · Azure Voice Live · Docker · Git
-
-## What I value
-
-- Building useful products around real user problems.
-- Clear architecture and maintainable code.
-- Evaluating AI systems instead of relying only on impressive demos.
-- Learning continuously and sharing practical work.
+**Cloud & data** · Microsoft Azure · Azure AI Foundry · Docker · dbt · PySpark
 
 ---
 
 <p align="center">
-  <a href="https://samihael.netlify.app">Let's connect</a>
+  <strong>Morocco · Open to AI Engineering opportunities in Morocco and remotely</strong>
 </p>

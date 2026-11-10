@@ -41,9 +41,22 @@ My background in Data Engineering helps me connect AI capabilities with reliable
 
 ## 📘 My Top Open Source Projects
 
-[Call Center Voice Agent](https://github.com/Samiha128/call-center-voice-agent) · [Aura Orbit Voice Companion](https://github.com/Samiha128/aura-orbit-voice-companion) · [AI Interview Quiz](https://github.com/Samiha128/ai-interview-quiz) · [Tokyo Olympics — Azure Data Project](https://github.com/Samiha128/tokyo-olympic-azure-project)
+<details open>
+  <summary>Explore my featured projects</summary>
 
-**[All Repositories](https://github.com/Samiha128?tab=repositories)**
+  <p align="left">
+    <a href="https://github.com/Samiha128/call-center-voice-agent"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=call-center-voice-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Call Center Voice Agent" /></a>
+    <a href="https://github.com/Samiha128/aura-orbit-voice-companion"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=aura-orbit-voice-companion&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Aura Orbit Voice Companion" /></a>
+    <a href="https://github.com/Samiha128/ai-interview-quiz"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=ai-interview-quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Interview Quiz" /></a>
+    <a href="https://github.com/Samiha128/tokyo-olympic-azure-project"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=tokyo-olympic-azure-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tokyo Olympics Azure Project" /></a>
+  </p>
+
+  <p>
+    <a href="https://github.com/Samiha128?tab=repositories">
+      <img alt="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-1F222E?style=for-the-badge&logo=repo&logoColor=F85D7F" />
+    </a>
+  </p>
+</details>
 
 ---
 

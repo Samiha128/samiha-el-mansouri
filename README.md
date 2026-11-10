@@ -39,14 +39,11 @@ My background in Data Engineering helps me connect AI capabilities with reliable
 
 ---
 
-## 🌸 Featured Projects
+## 📘 My Top Open Source Projects
 
-| Project | What it demonstrates |
-|---|---|
-| **[Call Center Voice Agent](https://github.com/Samiha128/call-center-voice-agent)** | Voice-based customer support workflows and conversational AI |
-| **[Aura Orbit Voice Companion](https://github.com/Samiha128/aura-orbit-voice-companion)** | An interactive voice companion experience |
-| **[AI Interview Quiz](https://github.com/Samiha128/ai-interview-quiz)** | An AI-powered interview practice and quiz application |
-| **[Tokyo Olympics — Azure Data Project](https://github.com/Samiha128/tokyo-olympic-azure-project)** | Data engineering and analytics workflows on Azure |
+[Call Center Voice Agent](https://github.com/Samiha128/call-center-voice-agent) · [Aura Orbit Voice Companion](https://github.com/Samiha128/aura-orbit-voice-companion) · [AI Interview Quiz](https://github.com/Samiha128/ai-interview-quiz) · [Tokyo Olympics — Azure Data Project](https://github.com/Samiha128/tokyo-olympic-azure-project)
+
+**[All Repositories](https://github.com/Samiha128?tab=repositories)**
 
 ---
 

@@ -10,12 +10,15 @@
   </a>
 </p>
 
-<!-- SOCIAL ICONS -->
+<!-- SOCIAL ICONS — ROSE PINK -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/samiha-el-mansouri-27505b250/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Samiha128" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://samihael.netlify.app" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:elmansourisamiha80@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-252A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/" title="X"><img src="./assets/social-icons/x.svg" width="34" height="34" alt="X" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samiha-el-mansouri-27505b250/" title="LinkedIn"><img src="./assets/social-icons/linkedin.svg" width="34" height="34" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Samiha128" title="GitHub"><img src="./assets/social-icons/github.svg" width="34" height="34" alt="GitHub" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:elmansourisamiha80@gmail.com" title="Email"><img src="./assets/social-icons/mail.svg" width="34" height="34" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -27,25 +30,16 @@
 
 ## 💗 About Me
 
-<table>
-  <tr>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://github.com/Samiha128.png" width="190" alt="Samiha's GitHub profile photo" />
-    </td>
-    <td valign="middle">
-      I'm an **AI Engineer** focused on building practical applications with **Generative AI, intelligent agents, and conversational systems**.
+I'm an **AI Engineer** focused on building practical applications with **Generative AI, intelligent agents, and conversational systems**.
 
-      My background in Data Engineering helps me connect AI capabilities with reliable data pipelines, backend services, and real product workflows.
+My background in Data Engineering helps me connect AI capabilities with reliable data pipelines, backend services, and real product workflows.
 
-      - ✨ **GenAI:** RAG, LLM applications, embeddings, evaluation and prompt engineering
-      - 🤖 **AI Agents:** tool calling, orchestration, workflow automation and human handoff
-      - 🎙️ **Voice AI:** real-time conversational experiences and Azure AI Foundry / Voice Live
-      - 🧩 **Backend & Data:** Python, FastAPI, SQL, MongoDB, Redis and Azure
+- ✨ **GenAI:** RAG, LLM applications, embeddings, evaluation and prompt engineering
+- 🤖 **AI Agents:** tool calling, orchestration, workflow automation and human handoff
+- 🎙️ **Voice AI:** real-time conversational experiences and Azure AI Foundry / Voice Live
+- 🧩 **Backend & Data:** Python, FastAPI, SQL, MongoDB, Redis and Azure
 
-      📍 Morocco · Open to AI Engineering opportunities in Morocco and remotely.
-    </td>
-  </tr>
-</table>
+📍 Morocco · Open to AI Engineering opportunities in Morocco and remotely.
 ---
 
 ## 📘 My Top Open Source Projects

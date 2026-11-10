@@ -41,20 +41,12 @@ My background in Data Engineering helps me connect AI capabilities with reliable
 
 ## 🌸 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Samiha128/call-center-voice-agent">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samiha128&repo=call-center-voice-agent&theme=react&bg_color=1F222E&title_color=F75C7E&text_color=E6E6E6&icon_color=F8D866&hide_border=true" alt="Call Center Voice Agent" />
-  </a>
-  <a href="https://github.com/Samiha128/aura-orbit-voice-companion">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samiha128&repo=aura-orbit-voice-companion&theme=react&bg_color=1F222E&title_color=F75C7E&text_color=E6E6E6&icon_color=F8D866&hide_border=true" alt="Aura Orbit Voice Companion" />
-  </a>
-  <a href="https://github.com/Samiha128/ai-interview-quiz">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samiha128&repo=ai-interview-quiz&theme=react&bg_color=1F222E&title_color=F75C7E&text_color=E6E6E6&icon_color=F8D866&hide_border=true" alt="AI Interview Quiz" />
-  </a>
-  <a href="https://github.com/Samiha128/tokyo-olympic-azure-project">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samiha128&repo=tokyo-olympic-azure-project&theme=react&bg_color=1F222E&title_color=F75C7E&text_color=E6E6E6&icon_color=F8D866&hide_border=true" alt="Tokyo Olympics Azure Project" />
-  </a>
-</p>
+| Project | What it demonstrates |
+|---|---|
+| **[Call Center Voice Agent](https://github.com/Samiha128/call-center-voice-agent)** | Voice-based customer support workflows and conversational AI |
+| **[Aura Orbit Voice Companion](https://github.com/Samiha128/aura-orbit-voice-companion)** | An interactive voice companion experience |
+| **[AI Interview Quiz](https://github.com/Samiha128/ai-interview-quiz)** | An AI-powered interview practice and quiz application |
+| **[Tokyo Olympics — Azure Data Project](https://github.com/Samiha128/tokyo-olympic-azure-project)** | Data engineering and analytics workflows on Azure |
 
 ---
 
@@ -89,16 +81,10 @@ My background in Data Engineering helps me connect AI capabilities with reliable
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samiha128&show_icons=true&hide_border=true&bg_color=1F222E&title_color=F75C7E&icon_color=F8D866&text_color=E6E6E6&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiha128&layout=compact&hide_border=true&bg_color=1F222E&title_color=F75C7E&text_color=E6E6E6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Samiha128&theme=dark&background=1F222E&ring=F75C7E&fire=F8D866&currStreakLabel=F75C7E&hide_border=true" alt="GitHub contribution streak" />
-</p>
+You can explore my latest repositories, contributions, and pinned projects directly on my
+[GitHub profile](https://github.com/Samiha128).
 
 ---
 

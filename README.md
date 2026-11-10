@@ -41,22 +41,20 @@ My background in Data Engineering helps me connect AI capabilities with reliable
 
 ## 📘 My Top Open Source Projects
 
-<details open>
-  <summary>Explore my featured projects</summary>
+<p align="center">
+  <a href="https://github.com/Samiha128/call-center-voice-agent"><img src="./assets/project-cards/call-center-voice-agent.svg" width="48%" alt="Call Center Voice Agent project card" /></a>
+  <a href="https://github.com/Samiha128/aura-orbit-voice-companion"><img src="./assets/project-cards/aura-orbit-voice-companion.svg" width="48%" alt="Aura Orbit Voice Companion project card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Samiha128/ai-interview-quiz"><img src="./assets/project-cards/ai-interview-quiz.svg" width="48%" alt="AI Interview Quiz project card" /></a>
+  <a href="https://github.com/Samiha128/tokyo-olympic-azure-project"><img src="./assets/project-cards/tokyo-olympic-azure-project.svg" width="48%" alt="Tokyo Olympics Azure project card" /></a>
+</p>
 
-  <p align="left">
-    <a href="https://github.com/Samiha128/call-center-voice-agent"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=call-center-voice-agent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Call Center Voice Agent" /></a>
-    <a href="https://github.com/Samiha128/aura-orbit-voice-companion"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=aura-orbit-voice-companion&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Aura Orbit Voice Companion" /></a>
-    <a href="https://github.com/Samiha128/ai-interview-quiz"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=ai-interview-quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Interview Quiz" /></a>
-    <a href="https://github.com/Samiha128/tokyo-olympic-azure-project"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Samiha128&repo=tokyo-olympic-azure-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tokyo Olympics Azure Project" /></a>
-  </p>
-
-  <p>
-    <a href="https://github.com/Samiha128?tab=repositories">
-      <img alt="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-1F222E?style=for-the-badge&logo=repo&logoColor=F85D7F" />
-    </a>
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/Samiha128?tab=repositories">
+    <img alt="All Repositories" src="https://img.shields.io/badge/All%20Repositories-1F222E?style=for-the-badge&logo=github&logoColor=F75C7E&labelColor=1F222E" />
+  </a>
+</p>
 
 ---
 
